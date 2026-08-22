@@ -70,7 +70,7 @@ This repository documents my journey toward becoming a Data Engineer through con
 
 ### SQL
 
-- [ ] SQL Basics
+- [x] SQL Basics
 - [ ] Joins
 - [ ] Subqueries
 - [ ] Window Functions
