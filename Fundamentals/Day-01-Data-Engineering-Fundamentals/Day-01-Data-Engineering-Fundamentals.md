@@ -35,7 +35,6 @@ Data is a collection of raw facts and figures.
 Subhojit
 25
 Kolkata
-50000
 ```
 
 These values alone are called data.
@@ -48,7 +47,6 @@ When data is organized and given meaning, it becomes information.
 Name     : Subhojit
 Age      : 25
 City     : Kolkata
-Salary   : 50000
 ```
 
 ---
