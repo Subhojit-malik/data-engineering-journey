@@ -79,7 +79,7 @@ This repository documents my journey toward becoming a Data Engineer through con
 
 ### Python
 
-- [ ] Basics
+- [x] Basics
 - [ ] Functions
 - [ ] OOP
 - [ ] Pandas
